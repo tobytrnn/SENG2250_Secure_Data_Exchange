@@ -1,7 +1,10 @@
 SENG2250 - Network and Systems Security 
- Assignment 3 - Part 2 - Individual
+
+Assignment 3 - Part 2 - Individual
+
 Implemented on 30 Oct, 2022
- by Gia Thu Tran
+
+by Gia Thu Tran
     
 The folder include: 
 - AESCBC.java 
