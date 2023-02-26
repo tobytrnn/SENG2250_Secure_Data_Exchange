@@ -1,8 +1,7 @@
 SENG2250 - Network and Systems Security 
  Assignment 3 - Part 2 - Individual
-Due date: 23:59 30 Oct, 2022
- Student number: C3352278
-Name: Gia Thu Tran
+Implemented on 30 Oct, 2022
+ by Gia Thu Tran
     
 The folder include: 
 - AESCBC.java 
