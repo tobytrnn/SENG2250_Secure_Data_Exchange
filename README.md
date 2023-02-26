@@ -29,7 +29,6 @@ cmd: java Server
 3. Open a new terminal window, run Client with the following cmd
 cmd: java Client
 
-
 Example of Server execution
 ====
 Server started
