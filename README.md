@@ -28,7 +28,7 @@ cmd: java Server
 cmd: java Client
 
 Example of Server execution
-####
+|==================|
 Server started
 
 Waiting for a client ...
@@ -54,10 +54,10 @@ Client: Message 1: 67a16dfb0cbd57e16148c141fccaaf651ef8037671f157efe4bf7b4aea513
 Client: Message 3: 08eb5625127625ab0cf821040a013a7aaf24f04bb423f381205e9a0f1d7f45fcbb2a0fd20650e52773108b182e1cbf9508b93c4dc59ae307d0f1fc5dd5cfd72c
 
 Data Exchange Completed. Session End.
-####
+|==================|
 
 Example of Client execution
-####
+|==================|
 Connecting ...
 
 Server: Send Server's RSA Public Key
@@ -86,6 +86,6 @@ Server: Message 2: b4737d63a0fd30027fa38ee9dc1c4d5636a816abbbbdfd42d53f9c23bc0b9
 Server: Message 4: 5a562c9b2277ea3b143a081394ce196434d1c9a2ed7d332dba1a315fdb1166ce02c3e0bef2ac9131d7248ba2d130aff9668428f3f1db38666e6177c909eb6db8
 
 Data Exchange Completed. Session End.
-####
+|==================|
 
 Implemented by Gia Thu Tran
